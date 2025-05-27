@@ -131,3 +131,6 @@ AUTH_USER_MODEL = 'myapp.User'
 REST_FRAMEWORK = {
     'DEFAULT_SCHEMA_CLASS': 'drf_spectacular.openapi.AutoSchema',
 }
+
+
+#  new changes aaddee 
